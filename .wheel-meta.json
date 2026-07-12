@@ -1,0 +1,18 @@
+{
+  "wheel_id": 94,
+  "structure": "umbrella",
+  "slug": "canberrahomeloanbroker-102",
+  "project": "home-loan-broker-canberra-costs-c-102",
+  "parent_t1_ref": "canberrahomeloanbroker-001",
+  "node_role": "feeder",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "home loan broker canberra costs",
+  "intended_url": "https://sitesau.github.io/canberrahomeloanbroker-102/",
+  "links": [
+    {
+      "target_url": "https://home-loan-broker-canberra-c-150.surge.sh/",
+      "anchor": "home loan broker canberra",
+      "rel": "follow"
+    }
+  ]
+}
